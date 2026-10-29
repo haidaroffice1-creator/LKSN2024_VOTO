@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="voto_white">#FFFFFFFF</color>
+    <color name="voto_black">#141414</color>
+    <color name="voto_yellow">#FDDE64</color>
+    <color name="voto_background">#202020</color>
+    <color name="voto_surface">#303030</color>
+    <color name="voto_checkbox_off">#202022</color>
+    <color name="voto_checkbox_border">#C8C8C8</color>
+</resources>
